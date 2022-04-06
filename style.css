@@ -115,7 +115,6 @@ a{
     section h1 {
         font-size: 20px;
         text-align: center;
-
     } 
 }
 
@@ -126,8 +125,7 @@ a{
     }
 
     html, body {
-        overflow-x: hidden;
-        
+        overflow-x: hidden;       
     }
     
     section {
