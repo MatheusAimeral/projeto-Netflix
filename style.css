@@ -23,7 +23,7 @@ h2 {
 
 header{
     background-image: linear-gradient(to top, #141414, black);
-    width: 100%;
+    width: 100vw;
 }
 
 header img {
@@ -122,7 +122,12 @@ a{
 @media (max-width: 1100px){  
      
     header {
-        width: 100%;
+        width: 100vw;
+    }
+
+    html, body {
+        overflow-x: hidden;
+        
     }
     
     section {
