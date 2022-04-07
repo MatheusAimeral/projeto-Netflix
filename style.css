@@ -154,4 +154,8 @@ a{
         height: 50%;
         text-align: center;
     }
+
+    .manage {
+        margin-bottom: 40px;
+    }
 }
